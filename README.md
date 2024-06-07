@@ -11,14 +11,14 @@ Dies ist unser erstes Bild von der Gründung selbst
 
 ## Some of our tours
 
-- [Tour nach Hawaii](/CC24-Eschelbronn/sub-pages/Hawaii.md)
-- [Tour nach Ulm](/CC24-Eschelbronn/sub-pages/Ulm.md)
+- [Tour nach Hawaii](sub-pages/Hawaii.md)
+- [Tour nach Ulm](/sub-pages/Ulm.md)
 - Tour nach ...
 
 ## Unvorteilhafte Beweise
 
-- [Floeli](/CC24-Eschelbronn/sub-pages/floeli.md)
-- [Chef_vons_Janze](/CC24-Eschelbronn/sub-pages/chef_vons_janze.md)
+- [Floeli](/sub-pages/floeli.md)
+- [Chef_vons_Janze](/sub-pages/chef_vons_janze.md)
 
 ## Trete bei
 
