@@ -4,4 +4,4 @@ Hier sollten eigentlich einige Statistiken stehen
 
 Hier sollte etwas Text stehen
 
-![Hawaii](/CC24-Eschelbronn/pictures/hawaii.png)
+![Hawaii](../pictures/hawaii.png)

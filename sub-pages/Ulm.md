@@ -4,4 +4,4 @@ Hier sollten eigentlich einige Statistiken stehen
 
 Hier sollte etwas Text stehen
 
-![Ulm](/CC24-Eschelbronn/pictures/ulm.png)
+![Ulm](../pictures/ulm.png)
