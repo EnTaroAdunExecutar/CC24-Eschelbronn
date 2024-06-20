@@ -32,4 +32,4 @@ Wenn du ebenfalls dem Club Cyclist 2024 Eschelbronn beitreten möchtest, dann f�
 
 Eine kleine Änderung
 
-Nohc eine kleine Änderung.
+Noch eine kleine Änderung.
