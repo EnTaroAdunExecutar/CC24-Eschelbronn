@@ -1,6 +1,6 @@
 # CC24-Eschelbronn
 
-> Homepage des Club Cyclist 2024 Eschelbronn
+> Homepage des Club Cyclist 2024 Eschelbronn - erster interner Test ohne HUGO
 
 Trying to use GitHub Pages for a first shot of the Homepage of the Club Cyclist 2024 Eschlebronn.
 
